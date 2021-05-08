@@ -1,0 +1,2 @@
+fixed sprite offsets
+added anime girl voice
