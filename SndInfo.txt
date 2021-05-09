@@ -1,1 +1,3 @@
-blursphere/pickup dspickup
+blursphere/pickup blurpickup
+blursphere/use bluruse
+blursphere/unuse blurunuse
