@@ -1,2 +1,2 @@
-fixed sprite offsets
-added anime girl voice
+05/08/21: fixed sprite offsets
+05/08/21:added anime girl voice
