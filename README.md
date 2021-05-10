@@ -5,7 +5,7 @@ What can she do? She burns your foes, turns you invisible, whispers sweet things
 This is a sprite and sound replacement for the Hideous Destructor Blur Sphere.
 This "mod" only replaces sounds and sprites, so it should be fully multiplayer compatable.
 
-Hideous Destructor can be found [here](https://codeberg.org/mc776/HideousDestructor)
-Check out Hideous Destructor HQ for more mods and stuff [here](https://accensi.gitlab.io/hdportal/index.html)
+Hideous Destructor can be found [here](https://codeberg.org/mc776/HideousDestructor),
+check out Hideous Destructor HQ for more mods and stuff [here](https://accensi.gitlab.io/hdportal/index.html).
 
 ![Yandere_orb](https://user-images.githubusercontent.com/83889223/117590003-07d6ef00-b0f3-11eb-99d8-41a7c62834d3.jpg)
