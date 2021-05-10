@@ -1,5 +1,6 @@
 # Blur-San
-Have you ever wondered what it would be like if the Blur Sphere from Hideous Destructor was an anime girl? Well now you can find out, with Blur-San!
+Have you ever wondered what it would be like if the Blur Sphere from Hideous Destructor was an obsessive anime girl? Well now you can find out, with Blur-San, the best and only anime girl Blur Sphere!
+What can she do? She burns your foes, turns you invisible, whispers sweet things into your ear (and gets **way** too attachted). 
 
 This is a sprite and sound replacement for the Hideous Destructor Blur Sphere.
 This "mod" only replaces sounds and sprites, so it should be fully multiplayer compatable.
