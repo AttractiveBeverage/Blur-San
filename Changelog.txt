@@ -4,3 +4,4 @@
 05/08/21: added SndInfo, removed dsding and replaced it with dspickup
 05/08/21: changed sounds again
 05/09/21: added Language.en and BLURSPHERETEXTS.txt
+05/10/21: added more lines to BLURSPHERETEXTs.txt, updated credits.txt
