@@ -3,3 +3,4 @@
 05/08/21: fixed sprite offsets, again (turns out I uploaded the sprites without the correct offset)
 05/08/21: added SndInfo, removed dsding and replaced it with dspickup
 05/08/21: changed sounds again
+05/09/21: added Language.en and BLURSPHERETEXTS.txt
